@@ -6,8 +6,12 @@
           <option name="url" value="git@github.com:Christopherjeromeherrera/about-Chris.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:fullStackMartinez/about-Esteban.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\msmal_000\Desktop\bootcamp\about-Chris" />
+    <option name="cloneParentDir" value="C:\Users\msmal_000\Desktop\bootcamp" />
   </component>
 </application>
